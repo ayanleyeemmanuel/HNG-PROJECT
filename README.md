@@ -1,2 +1,2 @@
-# HNG-PROJECT
+# INTERNSHIP
 A Resume Web Page
